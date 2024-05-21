@@ -1,2 +1,5 @@
-requests==2.26.0
-pytz==2024.1
+# T.S. BRAND
+# TRICKS-BY-SATISH
+https://youtu.be/sA6jmjtvSAU?si=EwvdvbSy-ROEGQin
+
+![Alt Text](https://i.imgur.com/GItqLpN.jpeg)
